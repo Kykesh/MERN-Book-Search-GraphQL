@@ -1,0 +1,2 @@
+# MERN-Book-Search-GraphQL
+ A full-stack MERN application that utilizes Apollo Server and GraphQL to enhance a book search engine. Originally built with a RESTful API, this project has been refactored to use GraphQL for more efficient data interactions. Features include user authentication, book search functionality via Google Books API, and options to save and manage favorite books. Deployed on Render for live interaction.
